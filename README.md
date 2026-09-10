@@ -1,8 +1,9 @@
 <div align="center">
+  <img src="assets/banner-perfil.png" alt="Lucas Nascimento — Segurança da Informação, Python e Portfólio" width="100%">
 
-# Lucas Nascimento
+  <br>
 
-**Estudante de Segurança da Informação • Python em formação • Construindo meu portfólio**
+  **Estudante de Segurança da Informação em formação, aprendendo Python e construindo projetos práticos.**
 
 </div>
 
@@ -22,6 +23,15 @@ Neste momento, meu foco está em:
 ### [Portfólio de estudos em Python](https://github.com/Lna-nml/portfolio-python-dados)
 
 Repositório que acompanha minha evolução por meio de exercícios e pequenos projetos documentados.
+
+<p align="center">
+  <a href="https://github.com/Lna-nml/portfolio-python-dados/tree/main/projetos/01-analisador-faturamento">
+    <img src="https://raw.githubusercontent.com/Lna-nml/portfolio-python-dados/main/assets/projeto-01-analisador-faturamento.png" alt="Capa do projeto Analisador de Faturamento" width="49%">
+  </a>
+  <a href="https://github.com/Lna-nml/portfolio-python-dados/tree/main/projetos/02-classificador-desempenho-vendas">
+    <img src="https://raw.githubusercontent.com/Lna-nml/portfolio-python-dados/main/assets/projeto-02-classificador-desempenho.png" alt="Capa do projeto Classificador de Desempenho" width="49%">
+  </a>
+</p>
 
 | Projeto | O que pratiquei | Status |
 |---|---|:---:|
