@@ -3,8 +3,9 @@
 
   <br>
 
-  **Estudante de Segurança da Informação em formação, aprendendo Python e construindo projetos práticos.**
+  **Estudante de Segurança da Informação | Python | Redes | Buscando a primeira oportunidade júnior em cibersegurança**
 
+  
 </div>
 
 ## Sobre mim
@@ -55,5 +56,9 @@ Repositório que acompanha minha evolução por meio de exercícios e pequenos p
 - documentar os aprendizados da faculdade e evoluir este portfólio continuamente.
 
 ---
+## Foco em segurança
+
+Estou montando o repositório [python-seguranca](https://github.com/Lna-nml/python-seguranca) com ferramentas em Python para segurança da informação: validador de senhas (em desenvolvimento), port scanner e analisador de logs.
+
 
 > Em formação, um projeto de cada vez.
